@@ -1,0 +1,17 @@
+{
+  "repository": "module-module-liberu-platform-orchestration-c64302ad-react-native",
+  "capabilityKey": "liberusoftware/module-liberu-platform-orchestration",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-module-liberu-platform-orchestration-c64302ad-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/accounting/nextjs/liberu-platform-orchestration.md",
+  "presentationPlan": "projects/accounting/react-native/liberu-platform-orchestration.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "billing",
+    "genealogy"
+  ]
+}
